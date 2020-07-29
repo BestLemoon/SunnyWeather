@@ -1,0 +1,2 @@
+# SunnyWeather
+Just an exercise
